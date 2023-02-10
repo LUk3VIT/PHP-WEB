@@ -1,0 +1,20 @@
+Formação PHP Web
+
+
+
+1 Gerenciador de dependências
+
+PHP composer: 13%
+
+2 Trabalhando com Banco de Dados
+
+PHP e PDO : 0%
+
+3 MVC
+
+PHP na Web: conhecendo o padrão MVC 
+PHP na Web: lidando com segurança e API
+
+4 Boas Práticas 
+
+PHP na Web: aplicando boas práticas e PSRs
